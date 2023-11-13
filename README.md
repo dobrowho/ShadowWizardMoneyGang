@@ -2,8 +2,8 @@
 
 ### Tema 0
 
-- [ ] Nume proiect (poate fi schimbat ulterior)
-- [ ] Scurtă descriere a temei alese, ce v-ați propus să implementați
+- [ ] Nume proiect: ShadowWizardMoneyGang
+- [ ] Scurtă descriere a temei alese, ce v-ați propus să implementați: RPG care are drept personaj principal un vrajitor.
 
 ## Tema 1
 
